@@ -1,0 +1,12 @@
+nome = "Andrey"
+nomes = ['Fernanda', 'João', 'Júlio', ' Maria']
+
+print(nomes)
+
+print(type(nomes))
+print(len(nomes))
+
+print(nomes[0])
+print(nomes[1])
+print(nomes[2])
+print(nomes[3])
